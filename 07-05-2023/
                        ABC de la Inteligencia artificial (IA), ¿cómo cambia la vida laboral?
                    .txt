@@ -1,0 +1,27 @@
+
+                        ABC de la Inteligencia artificial (IA), ¿cómo cambia la vida laboral?
+                    
+
+El IDC dijo que 47% de empresas en la región hacen uso de la IA y que 60% de estas, implementan para el desarrollo de su estrategia
+
+En muchas de las industrias hoy se habla de casos prácticos de cómo aprovechar
+. ¿Cuáles serán los beneficios específicos en el sector de distribución? ¿Cómo la IA puede beneficiar a las empresas y a los empleados?
+En Colombia, por ejemplo, desde el 2019, el Conpes publicó el proyecto N.º 3975 con la Política Nacional de Transformación Digital e Inteligencia Artificial, y en Latinoamérica y el Caribe ya es un hecho que se han ido integrando modelos de gobernanza y legislación de IA.
+ implementan para el desarrollo de su estrategia corporativa, analítica y business intelligent.
+Primero comenzó la automatización robótica de los procesos (RPA) y luego los chatbots, que empezaron con el manejo de las tareas básicas. Con la incorporación de la IA se volvieron más inteligentes y se agregó valor a los resultados en todo tipo de operación. Ahora casi todos los procesos y aplicaciones ya tienen la IA incorporada. L
+l.
+La IA es un software vinculado a datos o sensores capaz de procesarlos, aprender de los mismos y así brindar información valiosa. Esta puede estar basada en datos complejos, predicción de variaciones de suministro, o realizar tareas de big data (reconocimiento facial, escaneos médicos, chats por voz, entre otros) en forma increíblemente rápida.
+ con procesadores poderosos que acceden a datos complejos frecuentemente en tiempo real.
+Para el usuario final, la IA es otro servicio que puede llamarse análisis predictivo o aprendizaje inteligente para llamarlo de una forma más amistosa. C
+
+Las empresas de distribución confían en las soluciones en la nube que se actualizan en forma regular y la IA es una de las herramientas que se brindan a los usuarios para lograr mayor valor.
+Las empresas pueden contar con las siguientes ventajas a través del uso de la IA, según Infor:
+Las empresas de distribución en general están orgullosas de las relaciones con sus proveedores, pero la IA y el machine learning pueden evaluar los datos y sugerir formas para lograr aún un mejor performance, ajustando ineficiencias de los procesos o debilidades de los productos que solo son visibles analizando los registros de las devoluciones.
+
+La IA puede constantemente modificar los precios o desplegar en forma dinámica opciones de compra para aumentar la posibilidad de concertar una venta. Considerando la historia de clientes y las condiciones del mercado, las aplicaciones basadas en IA sugieren descuentos en los volúmenes utilizando datos y análisis de las ventas.
+
+La mayoría de los distribuidores ya operan aplicaciones para el inventario a fin de mantener la cantidad de stock adecuada, pero la IA puede monitorear los patrones de ventas para garantizar que el stock adecuado se encuentre en el almacén correspondiente conforme a la variación de las estaciones, del mercado, los productos o de las provisiones.
+
+La presencia de la IA en los procesos empresariales y en herramientas de gestión elimina muchas de las tareas repetitivas y aburridas que los trabajadores hacen. Ese tiempo adicional puede dedicarse a fortalecer relaciones con clientes brindando información basada en datos y logrando ser una empresa de vanguardia.
+
+Todos, desde el CIO al empleado más nuevo, pueden aprovechar al máximo las herramientas de IA si se seleccionan una plataforma con modelos de IA ya preconfigurados. Esto hace que el machine learning sea más accesible por medio de implementaciones de bajo o sin códigos.
